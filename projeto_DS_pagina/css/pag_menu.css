@@ -1,0 +1,137 @@
+.tela-inical {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.tela-inical .div {
+  background-color: #ffffff;
+  width: 1624px;
+  height: 916px;
+  position: relative;
+}
+
+.tela-inical .imagem {
+  position: absolute;
+  width: 723px;
+  height: 716px;
+  top: 171px;
+  left: 901px;
+}
+
+.tela-inical .overlap {
+  position: absolute;
+  width: 614px;
+  height: 523px;
+  top: 254px;
+  left: 65px;
+}
+
+.tela-inical .texto {
+  position: absolute;
+  width: 614px;
+  height: 449px;
+  top: 0;
+  left: 0;
+}
+
+.tela-inical .inicie-agora-seu {
+  position: absolute;
+  width: 471px;
+  top: 287px;
+  left: 3px;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 48.5px;
+  letter-spacing: 0;
+  line-height: 52.8px;
+}
+
+.tela-inical .text-wrapper {
+  color: #33a8f1;
+}
+
+.tela-inical .span {
+  color: #3f3f3f;
+}
+
+.tela-inical .overlap-group {
+  position: absolute;
+  width: 608px;
+  height: 184px;
+  top: 0;
+  left: 0;
+}
+
+.tela-inical .good-health-is-the {
+  position: absolute;
+  top: 128px;
+  left: 3px;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 500;
+  color: #a6a6a6;
+  font-size: 18.5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-inical .atendimento-de {
+  position: absolute;
+  width: 471px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 48.5px;
+  letter-spacing: 0;
+  line-height: 52.8px;
+}
+
+.tela-inical .navbar {
+  position: absolute;
+  width: 755px;
+  height: 171px;
+  top: 0;
+  left: 47px;
+}
+
+.tela-inical .text-wrapper-4 {
+  position: absolute;
+  width: 112px;
+  top: 71px;
+  left: 404px;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.tela-inical .text-wrapper-5 {
+  position: absolute;
+  width: 203px;
+  top: 73px;
+  left: 546px;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 500;
+  color: #33a8f1;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.tela-inical .captura-de-tela {
+  position: absolute;
+  width: 213px;
+  height: 171px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
